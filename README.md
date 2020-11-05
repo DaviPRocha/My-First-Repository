@@ -1,9 +1,11 @@
 # My-First-Repository
 // It's my first project. This Function Say Me Hello
 
-function sayHello(name) {
-    console.log('Hello ' + name); 
+function sayHello(text) {
+    console.log('Hello ' + text); 
 }
 
-sayHello(', you say me?');
-         ^ In this location, you can put your name
+sayHello('');
+         
+         ^ In this location, you can put your text
+        
